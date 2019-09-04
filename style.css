@@ -1,0 +1,13 @@
+body {
+    background: #000;
+}
+
+#container {
+    max-width: 1024px;
+    margin: auto;
+}
+
+#screen {
+    background: #000;
+    border 1px solid white;
+}
